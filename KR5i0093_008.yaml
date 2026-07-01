@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0093/krp/v1/juan/8
+seq: 8
+front:
+  text: 心香妙語重刋道藏輯要增補併儷心香妙語卷之四
+  hash: sha256:da9125a24a8dc7848251e207447a1faffd7584ecaa68c706501391a4048f8b0d
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-EX_KR5i0093_08p001a}
+body:
+  text: 目録藥王四月二十八日保嗣三月奠宅百人鎖建醮脫耳環翻船遇救謝神婦人朝五腦山謝雨商歸慶王爺朝沙府東嶽請經伸𡨚後懴悔謝神中元施食為病建醮中元大賑水溺嫠婦誦觀音經謝帝主中元施食為爭渡溺死施食連二祈雨告文生子酬願得雨謝神謝雨醮府試歸補祝半偈菴掛紅漢鎮謝火掛紅瘞枯骨智鏡菴僧暢懷法名心悅誦皇經滿藏答報四恩院婦薦夫唐湛若薦父寄僧脫白祈嗣薦父為訟身亡附録集成諸疏啓白三寶疏淸醮疏資亡疏禳星疏為教匪建醮疏寡母為孤子病疏修房安香火疏嗣道教母病疏禳病星疏為父母消災接限疏謝玄疏謝熒川主疏父母六十預禳疏為父捐施棺櫬父亡表圓疏道五十禳星疏天臘誦經疏預禳禮斗疏就壇續經懴疏人亡後就齊悔願疏謝土疏重九為母祈夀疏為病許大洞經二月還願疏瘟病大行疏鄉市新正開場演戲疏聞雷驚怖懴謝疏謝墳疏祈嗣奏出家疏就壇獻供狀順星奠土竈疏瘡病解結疏雹後保禾疏為母填還庫財疏施棺櫬圓功修齊久病悔罪解結疏為子病中風疏夫為妻分𡨚解結疏無子女者學生懴疏母為女遇邪疏悔罪酬願解結疏放生疏居山常打鳥鎗懴悔解結禳星謝土同疏靑年孀婦母子祈禳重刋道藏輯要增補併儷心香妙語卷之四目録終
+  hash: sha256:17454c28f939b21c4cba0f17af3ec28aeab23fe5d6e04f2d473f6937d88619b1
+metadata:
+  title: 心香妙語
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:59:03.754121'
+  source:
+    repository: kanripo
+    path: KR5i0093/KR5i0093_008.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:e544fd666be7a8bbaa9940e9368e24851918c81b69bced93698af68faae97bf8
